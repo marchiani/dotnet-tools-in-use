@@ -32,6 +32,17 @@ A collection code snippets of libraries, tools, and frameworks that you can use 
 * Microsoft.AspNet.WebApi: This is a framework for building HTTP services that can be consumed by a wide range of clients, including browsers, mobile devices, and desktop applications. It provides features such as routing, content negotiation, and model binding.
 
 ### Web
+* ASP.NET Core: This is a popular framework for building web applications and APIs in .NET. It provides a lightweight, modular approach to building web applications and supports both server-side and client-side rendering.
+
+* Blazor: This is a web UI framework for building single-page applications (SPAs) using .NET and C#. It allows you to build interactive client-side web applications using C# instead of JavaScript.
+
+* Razor Pages: This is a page-based web development model for building web applications with .NET. It provides a lightweight, code-focused approach to building web UIs using Razor syntax.
+
+* Angular: This is a popular front-end web development framework that can be used with .NET. It provides a powerful set of tools for building complex, dynamic web UIs.
+
+* React: This is a popular front-end web development library that can be used with .NET. It provides a lightweight, efficient way to build reusable UI components.
+
+* Vue.js: This is a progressive JavaScript framework for building user interfaces. It can be used with .NET to build dynamic, reactive web UIs.
 
 ### Mobile
 
