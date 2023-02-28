@@ -60,5 +60,18 @@ A collection code snippets of libraries, tools, and frameworks that you can use 
 
 * React Native: This is a popular framework for building cross-platform mobile applications using React. It allows you to write code once and deploy it to both iOS and Android platforms.
 ### Database
+* Microsoft SQL Server: This is a popular relational database management system (RDBMS) developed by Microsoft. It is commonly used with .NET and provides advanced features such as transaction management, data compression, and in-memory processing.
 
+* MySQL: This is an open-source RDBMS that is widely used with .NET. It is known for its scalability, performance, and ease of use.
+
+* PostgreSQL: This is another open-source RDBMS that is popular with .NET developers. It is known for its reliability, robustness, and support for advanced features such as JSON data types and full-text search.
+
+* Oracle Database: This is a powerful RDBMS developed by Oracle Corporation. It is commonly used in enterprise applications and provides advanced features such as partitioning, clustering, and high availability.
+
+* MongoDB: This is a popular NoSQL database that is widely used with .NET. It is known for its scalability, flexibility, and support for unstructured data.
+
+* Redis: This is an in-memory key-value store that is commonly used as a cache or message broker. It is known for its high performance, low latency, and support for advanced data structures. 
+
+
+* SQLite: This is a lightweight, file-based relational database that is commonly used in mobile and desktop applications. It is known for its simplicity, portability, and support for transactions.
 ### Logging
