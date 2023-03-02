@@ -14,6 +14,8 @@ A collection code snippets of libraries, tools, and frameworks that you can use 
     - [Database](#database)
     - [ORM](#orm)
     - [Logging](#logging)
+      - [Libraries](#libraries)
+      - [Cloud solutions](#cloud-solutions)
 
 ### Official docs
 
@@ -88,3 +90,26 @@ A collection code snippets of libraries, tools, and frameworks that you can use 
 * LLBLGen Pro: This is a commercial ORM framework that can be used with various databases such as Microsoft SQL Server, MySQL, PostgreSQL, SQLite, and Oracle. LLBLGen Pro provides a visual designer for creating data models and supports various mapping strategies for mapping objects to database tables.
 
 ### Logging
+
+#### Libraries
+* Serilog: Serilog is a flexible and structured logging library for .NET that supports various logging sinks such as text files, databases, and message queues. Serilog provides advanced features such as log levels, structured logging, and filtering.
+
+* NLog: NLog is a mature and highly configurable logging library for .NET that supports various logging targets such as files, databases, and email. NLog provides advanced features such as log levels, log rotation, and custom layout rendering.
+
+* log4net: log4net is a popular logging library for .NET that provides a range of logging features such as log levels, logging to files and databases, and logging via email. log4net is highly configurable and can be customized using code or configuration files.
+
+* Microsoft.Extensions.Logging: Microsoft.Extensions.Logging is a logging library that is part of the .NET Core runtime. It provides a lightweight logging API that can be used with various logging providers such as Serilog, NLog, and log4net. Microsoft.Extensions.Logging provides features such as log levels, structured logging, and dependency injection.
+
+* Elmah: Elmah is an error logging library for .NET that can be used to log errors and exceptions in web applications. Elmah provides a range of features such as email alerts, error filtering, and detailed error reports.
+
+
+#### Cloud solutions
+* Azure Application Insights: Azure Application Insights is a logging and monitoring service for .NET applications that is part of the Azure cloud platform. Application Insights provides rich application monitoring and analytics features such as log collection, performance monitoring, and exception tracking.
+
+* AWS CloudWatch Logs: AWS CloudWatch Logs is a logging service for .NET applications that is part of the AWS cloud platform. CloudWatch Logs provides log collection, monitoring, and analysis features, as well as integration with other AWS services such as Lambda and EC2.
+
+* Seq: Seq is a centralized logging and analytics platform for .NET applications that can be deployed on-premises or in the cloud. Seq provides advanced logging features such as structured logging, log searching, and real-time log streaming.
+
+* Stackify Retrace: Stackify Retrace is a cloud-based logging and performance monitoring tool for .NET applications. Retrace provides log collection, monitoring, and analysis features, as well as application performance monitoring, error tracking, and alerting.
+
+* Loggly: Loggly is a cloud-based logging service that can be used with .NET applications. Loggly provides features such as log collection, searching, and analysis, as well as integration with other cloud services such as AWS and Azure.
