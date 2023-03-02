@@ -12,6 +12,7 @@ A collection code snippets of libraries, tools, and frameworks that you can use 
     - [Web](#web)
     - [Mobile](#mobile)
     - [Database](#database)
+    - [ORM](#orm)
     - [Logging](#logging)
 
 ### Official docs
@@ -74,4 +75,16 @@ A collection code snippets of libraries, tools, and frameworks that you can use 
 
 
 * SQLite: This is a lightweight, file-based relational database that is commonly used in mobile and desktop applications. It is known for its simplicity, portability, and support for transactions.
+
+### ORM
+* Entity Framework (EF): This is a popular ORM framework developed by Microsoft that can be used with various databases such as Microsoft SQL Server, MySQL, PostgreSQL, SQLite, and Oracle. EF allows developers to work with data in the form of objects and provides features such as LINQ, change tracking, and automatic mapping of database tables to objects.
+
+* NHibernate: This is a powerful ORM framework that can be used with various databases such as Microsoft SQL Server, MySQL, PostgreSQL, and Oracle. NHibernate provides features such as lazy loading, caching, and transaction management, and supports various mapping strategies for mapping objects to database tables.
+
+* Dapper: This is a lightweight ORM framework developed by StackExchange that can be used with various databases such as Microsoft SQL Server, MySQL, PostgreSQL, SQLite, and Oracle. Dapper provides a fast and easy-to-use way of executing SQL queries and mapping query results to objects.
+
+* LINQ to SQL: This is an ORM framework developed by Microsoft that can be used with Microsoft SQL Server. LINQ to SQL allows developers to work with data in the form of objects and provides features such as automatic mapping of database tables to objects and support for LINQ queries.
+
+* LLBLGen Pro: This is a commercial ORM framework that can be used with various databases such as Microsoft SQL Server, MySQL, PostgreSQL, SQLite, and Oracle. LLBLGen Pro provides a visual designer for creating data models and supports various mapping strategies for mapping objects to database tables.
+
 ### Logging
