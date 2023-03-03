@@ -13,6 +13,7 @@ A collection code snippets of libraries, tools, and frameworks that you can use 
     - [Mobile](#mobile)
     - [Database](#database)
     - [ORM](#orm)
+    - [Cryptography](#cryptography)
     - [Logging](#logging)
       - [Libraries](#libraries)
       - [Cloud solutions](#cloud-solutions)
@@ -88,6 +89,17 @@ A collection code snippets of libraries, tools, and frameworks that you can use 
 * LINQ to SQL: This is an ORM framework developed by Microsoft that can be used with Microsoft SQL Server. LINQ to SQL allows developers to work with data in the form of objects and provides features such as automatic mapping of database tables to objects and support for LINQ queries.
 
 * LLBLGen Pro: This is a commercial ORM framework that can be used with various databases such as Microsoft SQL Server, MySQL, PostgreSQL, SQLite, and Oracle. LLBLGen Pro provides a visual designer for creating data models and supports various mapping strategies for mapping objects to database tables.
+
+### Cryptography
+* System.Security.Cryptography: System.Security.Cryptography is a built-in cryptography library in .NET that provides various cryptographic algorithms such as AES, RSA, and SHA. This library supports various encryption and decryption modes and provides key management functions.
+
+* Bouncy Castle: Bouncy Castle is a popular open-source cryptography library for .NET that supports various cryptographic algorithms such as AES, RSA, and SHA. This library provides advanced features such as key derivation, password-based encryption, and digital signature verification.
+
+* CryptSharp: CryptSharp is a .NET cryptography library that supports various password hashing algorithms such as BCrypt, PBKDF2, and SCrypt. This library provides a simple and easy-to-use interface for password hashing and verification.
+
+* OpenSSL.NET: OpenSSL.NET is a .NET wrapper library for OpenSSL, a popular open-source cryptography library that provides various cryptographic algorithms such as AES, RSA, and SHA. This library provides a .NET interface for OpenSSL functions and supports various encryption and decryption modes.
+
+* Sodium: Sodium is a cryptography library for .NET that provides various cryptographic algorithms such as AES, RSA, and SHA. This library is designed to be easy to use and provides features such as key generation, encryption, and decryption.
 
 ### Logging
 
