@@ -14,6 +14,7 @@ A collection code snippets of libraries, tools, and frameworks that you can use 
     - [Database](#database)
     - [ORM](#orm)
     - [Cryptography](#cryptography)
+    - [Caching](#caching)
     - [Logging](#logging)
       - [Libraries](#libraries)
       - [Cloud solutions](#cloud-solutions)
@@ -101,6 +102,18 @@ A collection code snippets of libraries, tools, and frameworks that you can use 
 
 * Sodium: Sodium is a cryptography library for .NET that provides various cryptographic algorithms such as AES, RSA, and SHA. This library is designed to be easy to use and provides features such as key generation, encryption, and decryption.
 
+
+### Caching 
+* System.Runtime.Caching: System.Runtime.Caching is a built-in caching library in .NET that provides a simple way to cache data in memory. This library supports various cache eviction policies, such as time-based expiration and LRU (least recently used) eviction.
+
+* Microsoft.Extensions.Caching.Memory: Microsoft.Extensions.Caching.Memory is a caching library provided by Microsoft that extends the System.Runtime.Caching library. It provides additional features such as distributed caching and cache partitioning, and is commonly used in ASP.NET Core applications.
+
+* StackExchange.Redis: StackExchange.Redis is a high-performance caching library for .NET that provides a Redis-based distributed cache implementation. Redis is an in-memory data store that supports advanced data structures like sets, hashes, and sorted sets, making it a popular choice for caching in .NET.
+
+* Couchbase: Couchbase is a NoSQL database that provides a distributed caching solution for .NET. It supports caching of data in memory and on disk, and can be used as a standalone caching solution or as a distributed cache in a multi-node environment.
+
+* CacheManager: CacheManager is a caching library for .NET that supports various caching providers, such as memory, Redis, and Couchbase. It provides a simple and consistent API for caching and supports advanced features like cache synchronization and cache key versioning.
+* 
 ### Logging
 
 #### Libraries
